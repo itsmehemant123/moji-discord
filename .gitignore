@@ -1,3 +1,8 @@
+# Credentials
+*.secret
+auth.json
+dbconfig.json
+
 # Logs
 logs
 *.log

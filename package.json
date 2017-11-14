@@ -1,0 +1,26 @@
+{
+  "name": "moji-discord",
+  "version": "1.0.0",
+  "description": "Text -> Emoji",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mojiman.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmehemant123/moji-discord.git"
+  },
+  "author": "Hemanth Devarapalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmehemant123/moji-discord/issues"
+  },
+  "homepage": "https://github.com/itsmehemant123/moji-discord#readme",
+  "dependencies": {
+    "discord-akairo": "^7.5.0",
+    "discord.js": "^11.2.1",
+    "moji-translate": "^1.0.8",
+    "winston": "^2.4.0"
+  }
+}
