@@ -5,7 +5,6 @@ const mojimaker = require('moji-translate');
 class MojiMaker extends Command {
     constructor() {
         super('moji', {
-            ownerOnly: true,
             aliases: ['moji']
         });
     }
