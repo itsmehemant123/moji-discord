@@ -19,9 +19,10 @@ npm install
 }
 ```
 
+- Place it in a `config` folder within the project root.
+
 ## Running the bot
 
-- Place the `auth.json` in the config folder.
 - Run the bot with
 ```sh
 npm start
